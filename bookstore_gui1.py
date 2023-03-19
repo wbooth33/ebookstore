@@ -8,7 +8,7 @@ cursor = db.cursor()
 class BookstoreApp(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("Bookstore App")
+        self.title("Bookstore App!")
 
         # Set window dimensions and position
         window_width = 400
