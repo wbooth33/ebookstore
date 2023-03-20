@@ -1,5 +1,5 @@
 # ebookstore
-A small Python program which uses SQLite3 module to create a database to store books.
+A small Python program which uses SQLite3 module to create a database to store books. An updated version witha simple GUI made with Tkinter is also accessible on the master branch of this page.
 
 When first running the program it will attempt to create a database to store the information for the books, if a database already exist it will inform the user so.
 
